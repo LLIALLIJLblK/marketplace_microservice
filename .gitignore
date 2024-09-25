@@ -1,0 +1,17 @@
+node_modules
+.vscode
+.cache
+__pycache__
+auth_service/app/__pycache__
+cart_service/app/__pycache__
+order_service/app/__pycache__
+marketplace_service/app/__pycache__
+*.pyc
+__pycache__/
+
+*__pycache__
+.env
+.venv/
+
+# Poetry
+poetry.lock
